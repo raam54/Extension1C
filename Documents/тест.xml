@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Document uuid="c619afc1-142a-46db-953a-d17edeb69751">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.тест" category="Object">
+				<xr:TypeId>94b12629-1c95-4df5-a383-0ba313f8bd23</xr:TypeId>
+				<xr:ValueId>0619115a-e741-44a6-ac79-f05c86fb35fa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.тест" category="Ref">
+				<xr:TypeId>9de1f401-e4dc-4655-8b81-017362eb872f</xr:TypeId>
+				<xr:ValueId>177114f1-8d41-4284-a41a-672685265a01</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.тест" category="Selection">
+				<xr:TypeId>a556cc79-6652-4f1e-9acc-ee6c04085252</xr:TypeId>
+				<xr:ValueId>67123816-fc08-4c64-ab3f-e1c342a0bf7c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.тест" category="List">
+				<xr:TypeId>5692f6c7-4551-4cc8-9a89-034d53ce9e8b</xr:TypeId>
+				<xr:ValueId>a61a1563-a1ec-4249-81ee-cb2e984f5e74</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.тест" category="Manager">
+				<xr:TypeId>acae57b1-21c3-4f55-ab8d-70a600c1da83</xr:TypeId>
+				<xr:ValueId>6c97d361-309d-4acb-b03c-43ed6f3f02dc</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>тест</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>00ac9976-4f76-4018-9e68-27686a7f03a6</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

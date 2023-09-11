@@ -66,6 +66,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Role>Расш1_ОсновнаяРоль</Role>
+			<Document>тест</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
