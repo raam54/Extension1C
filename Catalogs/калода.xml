@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="fcf91ea5-f21a-48a1-b2ba-c9613b1e22c1">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.калода" category="Object">
+				<xr:TypeId>5c4af3b1-81d7-4b6a-b36e-68022adfe2f3</xr:TypeId>
+				<xr:ValueId>5d6e121a-a60c-4b7a-b92c-33830adbb524</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.калода" category="Ref">
+				<xr:TypeId>0b854405-17bb-4a89-adcf-19983e1fdf97</xr:TypeId>
+				<xr:ValueId>33a206c9-85d1-4a2e-ac2e-5a74ce54d555</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.калода" category="Selection">
+				<xr:TypeId>5cde3e92-9486-44ad-9e96-004f29c04e3f</xr:TypeId>
+				<xr:ValueId>631f91aa-f72c-4f9d-b7cf-5a3287e79779</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.калода" category="List">
+				<xr:TypeId>9cde7366-bfc1-4726-8f90-51656590160d</xr:TypeId>
+				<xr:ValueId>d07f12f4-3f08-4fd4-aa51-90e9cf100845</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.калода" category="Manager">
+				<xr:TypeId>0e83e804-830d-4249-b057-33555ace4bf5</xr:TypeId>
+				<xr:ValueId>78ebbcaa-48d3-454e-aca2-8ff795b35e41</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>калода</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ff045b28-ee02-4c42-a3bc-521d9e688d3d</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
